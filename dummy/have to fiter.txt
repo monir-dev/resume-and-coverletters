@@ -1,0 +1,17 @@
+Excellent analytical, problem solving and decision-making skills.
+Excellent understanding on OOP design principles & data structure
+Experience in these technologies is must :- ASP.Net MVC, ASP.Net Web API, ASP.NET Core, Entity Framework Core, Angular, WebSocket (SignalR), SQL Server, and Async programming
+Good understanding on AWS cloud services like Simple Queue Service (SQS), Simple Storage Service (S3), Elastic Compute Cloud (EC2), Lambda etc.
+Good understanding on CQRS, DDD, Event sourcing, and SOLID Principles
+Additional experience in these technologies is preferable: - PostgreSQL, AWS RedShift, Python, and NodeJs
+Skilled in UI management using Bootstrap and Angular.
+Self-motivated with a strong work ethic.
+
+Multithreading
+
+Develop international standard application using Asp.Net CORE, ASP.NET CORE MVC, Microservices, Docker, Razor, SignalR, Blazor, CoreFX, REST API, WCF Web Service, Windows Service.
+
+.Net Core, amChart, AngularJS, Microservices Architecture, Microsoft Azure, MS SQL Server , Restful Web API, Windows Service
+
+Docker
+
