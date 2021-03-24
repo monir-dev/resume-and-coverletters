@@ -15,3 +15,21 @@ Develop international standard application using Asp.Net CORE, ASP.NET CORE MVC,
 
 Docker
 
+
+
+Bachelor in Computer Science or a related subject; Masters preferred
+You can motivate yourself well and have experience as a full-stack developer; you love to be responsible for things from start to finish and get on very well with others, even in a distributed team environment
+You like to grow beyond yourself, have a sense of urgency, question facts, but are also quickly ready to move away from a position that is not very promising
+You are good at dealing with ambiguities and undefined problems and are good at abstracting
+In general, you are a curious personality and always strive to acquire new frameworks, languages, APIs, etc.
+You have a passion for the latest web, IoT and AI technologies, architectures on a high quality level, modularization, reliability, performance and scalability
+You have a deep knowledge of at least one of these languages: Java / Spring, Scala, Python, Node.js, React
+You have experience with data streaming and storage technologies such as Postgres, MongoDB, Kafka, RabbitMQ, Spark, Hadoop and Apache NiFi
+Knowledge of API management and service mesh (Mulesoft, WSO2, Apigee, Isio, etc.), GCP or AWS, Kubernetes, Docker is desirable
+You have a good understanding of microservice, API and event-based architectures, domain driven design, distributed systems, transaction and consistency models and SDLC in general
+You have skills in TDD and test automation, agile practices (Scrum, Lean, Kanban) and DevOps
+You have a strong desire for order, but you also have the ability to restore orderly structures out of occasional chaos
+You are used to tools like Jira, Confluence, Gitlab, Jenkins, Ansible
+Your working style: Agile, Lean, Entrepreneurial, effective communication, fast and flexible, strong self-drive
+Very good communication skills are a matter of course
+
