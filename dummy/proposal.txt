@@ -1,0 +1,43 @@
+Hi,
+In my current Software Engineer role, I have extensive experience in web development. I am working as a web developer since 2015.
+
+I develop websites on daily basis and most of them are with PHP and Laravel. I already have working experience with third-party login providers like Google, Facebook, etc, and social media sharing like Facebook, Twitter, LinkedIn, Tumblr, etc.
+
+I am just beginning my Freelancing on Upwork. However, I can assure you that if you work with me once, you will always work with me on these kinds of projects. I will do whatever it takes to completely 100% deliver on this project and earn a 5-star rating from you as well.
+
+Please let me know when you would be available for an initial 15-30 minute call (free of charge) so that we can discuss your project in more detail and identify how my skill-set will work best for you.
+
+Kind Regards,
+
+Monir Hossain
+
+
+
+Do you have any questions about the job description?
+
+If I understand your requirement correctly, there are your requirements.
+- Website search feature by URL
+- Website snapshot feature if that website not already enlisted.
+- With this system will create a post like a blog post with is shareable to social media (specific comments or pages on the site via social media, similar to YouTube’s 'share' function).
+- Registered user can comment and like
+- Any User can view comments
+- Login with Google, Facebook or Apple ID account and standard username and password.
+- verify email while registering by username and password.
+- The site will have a page that explains the site's mission.
+- There will be a 'report comment' function so the admin can be notified of illegal or inappropriate content.
+- Admin will have the ability to remove comments and ban users.
+- IP addresses and other identifying data linked to comments will be stored so the admin can ban users who spam, post illegal content, etc.
+
+Do you have suggestions to make this project run successfully?
+Discuss all requirements and challenges about this project with the developer before starting.
+
+
+What part of this project most appeals to you?
+SnapShot Feature.
+
+What questions do you have about the project?
+
+There are several questions in my mind like Snapshot feature, SMTP, Admin, and user-related permission, or any additional feature? It would be better to discuss this in person. As I described earlier, my primary focus is client satisfaction and building my Upwork profile. So, I will try my best to deliver more than what you want (enhance your experience).
+
+
+
